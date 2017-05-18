@@ -1,0 +1,27 @@
+upsd
+upsctl
+test
+# Atmel Studio
+*.componentinfo.xml
+*.cppproj
+*.cproj
+Debug/*
+
+# Vim
+*~
+*.sw[a-z]
+.ycm_extra_conf.py
+
+# Build
+*.override
+*.o
+*.out
+*.hex
+*.elf
+*.map
+*.bin
+*.srec
+# Arch PKGBUILD
+src
+pkg
+*.pkg.tar.xz*
